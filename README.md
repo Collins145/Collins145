@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Collins145/Collins# 💫 About Me:
+# 💫 About Me:
 Full-stack developer | UI/UX Designer<br>🔭 I’m currently working on Clinic booking system & some websites<br>👯 I’m looking to collaborate on Full-stack projects<br>🌱 I’m currently learning Cybersecurity & AI<br>💬 Ask me about Problem solving & Development<br>⚡ Fun fact **AI will not replace software engineers**
 
 
@@ -18,5 +15,4 @@ Full-stack developer | UI/UX Designer<br>🔭 I’m currently working on Clinic 
 ---
 [![](https://komarev.com/ghpvc/?username=Collins145&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
